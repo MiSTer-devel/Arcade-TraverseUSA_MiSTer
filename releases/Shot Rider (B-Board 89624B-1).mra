@@ -27,7 +27,7 @@
 	<buttons>3</buttons>
 	<buttons default="A,B,Start,Select,R" names="Gas,Brake,Start 1P,Start 2P,Coin"></buttons>
 
-	<switches default="FF,FF,00">
+	<switches default="FF,FE,00">
 		<dip bits="0,2" ids="5 Coins/1 Credit,1c/5cr,3c/1cr,1c/2cr,4 Coins/1 Credit,1c/3cr,2c/1cr,1c/1cr" name="Coin A"></dip>
 		<dip bits="3,4" ids="3c/1cr,1c/2cr,2c/1cr,1c/1cr" name="Coin B"></dip>
 		<dip bits="5" ids="On,Off" name="Unknown"></dip>

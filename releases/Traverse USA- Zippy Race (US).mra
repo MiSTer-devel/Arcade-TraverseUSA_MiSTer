@@ -28,7 +28,7 @@
 	<num_buttons>2</num_buttons>
 	<buttons default="A,B,Start,Select,R" names="Gas,Brake,Start 1P,Start 2P,Coin"></buttons>
 
-	<switches default="FF,FF,00">
+	<switches default="FF,FE,00">
 		<dip bits="0,1" ids="Max,Hi,Med,Low" name="Fuel Redcd on Collsn"></dip>
 		<dip bits="2" ids="Hi,Low" name="Fuel Consumption"></dip>
 		<dip bits="3" ids="Yes,No" name="Allow Continue"></dip>
